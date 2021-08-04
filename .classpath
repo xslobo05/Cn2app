@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="app/list/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jackson-dataformat-xml-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jackson-module-jaxb-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jaxb-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/json-20210307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Šimon/eclipse-workspace/Cn2Prediction/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
