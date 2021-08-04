@@ -8,6 +8,10 @@ App was build using Eclipse IDE with WindowBuilder extension. Is works in symbio
 
 User can display predicted values, generate charts of predicted values, past values and compare them. App allows adding new locations to the system.
 
+Code has been exported into a runnable JAR file. Due to heap size limitations encoutered, the JAR has been further packaged to runnable EXE file with JVM argument -Xmx1024m to ensure enough memory has been allocated.
+
+Tested on Windows 10 with Java 8 release 281.
+
 [Main code](https://github.com/xslobo05/Cn2app/blob/master/src/app/views/appGui.java)
 
 ## Authors
