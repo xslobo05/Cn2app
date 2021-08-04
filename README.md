@@ -8,6 +8,8 @@ App was build using Eclipse IDE with WindowBuilder extension. Is works in symbio
 
 User can display predicted values, generate charts of predicted values, past values and compare them. App allows adding new locations to the system.
 
+[Main code](https://github.com/xslobo05/Cn2app/blob/master/src/app/views/appGui.java)
+
 ## Authors
 
 - [@xslobo05](https://www.github.com/xslobo05)
