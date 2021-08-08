@@ -1,6 +1,6 @@
 # Cn2app
 
-This Eclipse Java project is a part of my bachelor thesis. Although this README is in English, the theses is written in Czech.
+This Eclipse Java project is a part of my bachelor thesis. Although this README is in English, the thesis is written in Czech.
 
 GUI app accesses Openweathermap API and Apify API to download weather data, which it uses to calculate refractive index structure parameter Cn2.
 
